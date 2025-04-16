@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there 👋
+
+Hi, my name is Giovani Duarte, i have 30 years old and i from Belo Horizonte - MG.
+
+
 
 <!--
 **djovas/djovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
