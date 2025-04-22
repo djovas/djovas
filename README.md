@@ -8,7 +8,7 @@ I graduated in Computer Science from Cruzeiro do Sul University.
 Currently, I work as a Data Analyst at Convenia, but I’m also studying to become a Data Scientist.
 
 
-## 👨‍💻 Technologies
+## Technologies 👨‍💻
 - Python
 - Power BI and Tableau
 - SQL and MySQL
