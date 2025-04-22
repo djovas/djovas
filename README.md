@@ -12,6 +12,7 @@ Currently, I work as a Data Analyst at Convenia, but I’m also studying to beco
 - Python
 - Power BI and Tableau
 - SQL and MySQL
+- Excek and Google Sheets
 
 
 
