@@ -1,12 +1,13 @@
 # Giovani Duarte
 ## Hello There 👋
 
-Hi, my name is Giovani Duarte, i have 30 years old and i from Belo Horizonte - MG.
+Hi, my name is Giovani Duarte, i'm 30 years old and i'm from Belo Horizonte - MG.
 
-I had gratuaded in Computer Sciente in Cruzeiro do Sul university.
+I graduated in Computer Science from Cruzeiro do Sul University.
 
-Actually, i work as a Data Analyst in Convenia, a company that delieve solutions for the HR and PD departaments.
+Currently, I work as a Data Analyst at Convenia, a company that delivers solutions for HR and PD departments.
 
+<!--
 ## 💼 What i do?
 - Interview different people from different areas do collect information for what kind of insights they need at the momment;
 - Create dashboards on Power BI/Tableau; 
